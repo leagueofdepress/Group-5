@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\Music Player\Music Player\bin\Debug\Music Player.exe.config
+C:\Users\User\source\repos\Music Player\Music Player\bin\Debug\Music Player.exe
+C:\Users\User\source\repos\Music Player\Music Player\bin\Debug\Music Player.pdb
+C:\Users\User\source\repos\Music Player\Music Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\source\repos\Music Player\Music Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\source\repos\Music Player\Music Player\obj\Debug\Music Player.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Music Player\Music Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\source\repos\Music Player\Music Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\source\repos\Music Player\Music Player\obj\Debug\Music Player.csproj.ResolveComReference.cache
+C:\Users\User\source\repos\Music Player\Music Player\obj\Debug\Music_Player.Form1.resources
+C:\Users\User\source\repos\Music Player\Music Player\obj\Debug\Music_Player.Properties.Resources.resources
+C:\Users\User\source\repos\Music Player\Music Player\obj\Debug\Music Player.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Music Player\Music Player\obj\Debug\Music Player.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Music Player\Music Player\obj\Debug\Music Player.exe
+C:\Users\User\source\repos\Music Player\Music Player\obj\Debug\Music Player.pdb
+C:\Users\RITHYSAK\Downloads\Telegram Desktop\Music Player\Music Player\bin\Debug\Music Player.exe.config
+C:\Users\RITHYSAK\Downloads\Telegram Desktop\Music Player\Music Player\bin\Debug\Music Player.exe
+C:\Users\RITHYSAK\Downloads\Telegram Desktop\Music Player\Music Player\bin\Debug\Music Player.pdb
+C:\Users\RITHYSAK\Downloads\Telegram Desktop\Music Player\Music Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\RITHYSAK\Downloads\Telegram Desktop\Music Player\Music Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\RITHYSAK\Downloads\Telegram Desktop\Music Player\Music Player\obj\Debug\Music Player.csproj.AssemblyReference.cache
+C:\Users\RITHYSAK\Downloads\Telegram Desktop\Music Player\Music Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\RITHYSAK\Downloads\Telegram Desktop\Music Player\Music Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\RITHYSAK\Downloads\Telegram Desktop\Music Player\Music Player\obj\Debug\Music Player.csproj.ResolveComReference.cache
+C:\Users\RITHYSAK\Downloads\Telegram Desktop\Music Player\Music Player\obj\Debug\Music_Player.Form1.resources
+C:\Users\RITHYSAK\Downloads\Telegram Desktop\Music Player\Music Player\obj\Debug\Music_Player.Properties.Resources.resources
+C:\Users\RITHYSAK\Downloads\Telegram Desktop\Music Player\Music Player\obj\Debug\Music Player.csproj.GenerateResource.cache
+C:\Users\RITHYSAK\Downloads\Telegram Desktop\Music Player\Music Player\obj\Debug\Music Player.csproj.CoreCompileInputs.cache
+C:\Users\RITHYSAK\Downloads\Telegram Desktop\Music Player\Music Player\obj\Debug\Music Player.exe
+C:\Users\RITHYSAK\Downloads\Telegram Desktop\Music Player\Music Player\obj\Debug\Music Player.pdb
